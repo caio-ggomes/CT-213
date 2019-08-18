@@ -1,0 +1,6 @@
+Basta ir em state_machine_test.py, 
+escolher o arquivo em arq = open('...') (linha 11)
+e rodar ;)
+Se quiser testar um sudoku descomente a partir
+da linha 79 e escreva o seu sudoku na matriz
+starting_grid
